@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd42fd9035b3c437",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "08be29d2c053bc9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "docs/test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "docs/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "docs/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "docs/test.md"
               }
             }
           }
@@ -155,10 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08be29d2c053bc9d",
+  "active": "3b4eb863c822f603",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231123170917.png",
+    "attachments/Pasted image 20231123170739.png",
+    "attachments/Pasted image 20231123170602.png",
+    "attachments/Pasted image 20231123170558.png",
+    "attachments/Pasted image 20231123170457.png",
+    "attachments/Pasted image 20231123170251.png",
+    "attachments/Pasted image 20231123170133.png",
+    "attachments/Pasted image 20231123165008.png",
+    "attachments/Pasted image 20231116194258.png",
+    "attachments/20231123171537.png",
+    "attachments",
+    "docs",
     "mkdocs.yml",
-    "test.md",
-    "Untitled"
+    "docs/test.md"
   ]
 }
