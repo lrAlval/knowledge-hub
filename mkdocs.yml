@@ -1,5 +1,5 @@
-site_name: AWS Certified Solutions Architect – Associate - Notes
-repo_url: https://github.com/lrAlval/SAA-C03
+site_name: Knowledge-hub - Notes
+repo_url: https://github.com/lrAlval/knowledge-hub
 theme:
     name: 'material'
     features:
