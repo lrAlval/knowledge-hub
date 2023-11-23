@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b4eb863c822f603",
+  "active": "08be29d2c053bc9d",
   "lastOpenFiles": [
+    "docs/Introduction.md",
+    "docs/index.md",
+    "docs/attachments/Pasted image 20231117200042.png",
+    "docs/test.md",
+    "docs/New Text Document.txt",
     "docs/New folder",
     "docs/attachments/Pasted image 20231123170739.png",
     "docs/attachments/Pasted image 20231123170917.png",
@@ -158,12 +163,10 @@
     "docs/attachments/Pasted image 20231123170133.png",
     "docs/attachments/Pasted image 20231123165008.png",
     "docs/attachments/Pasted image 20231116194258.png",
-    "docs/attachments/20231123171537.png",
     "docs/attachments",
     "test.md",
     "attachments",
     "docs",
-    "mkdocs.yml",
-    "docs/test.md"
+    "mkdocs.yml"
   ]
 }
