@@ -1,0 +1,11 @@
+- always profile your code before optimizing it is required in order to have a **baseline performance.**
+- **Sampling profiling**
+    - useful when you need to see the **sampling** of methods in the callstack and how much time is **spent** on each of them
+    - Non CPU work is not visible! (e.g. Thread.spleep() , I/O Operation)
+    - Inclusive **Samples** : samples that contain the method.
+    - Exclusive **samples:** samples with the given function on the top of the stack.
+- **Instrumentation.**
+    - injects code to measure every method and also shows non cpu related work.
+    - more detailed
+    - more overhead
+    - Measures also non CPU Work

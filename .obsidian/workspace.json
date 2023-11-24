@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "05934b8de9bc7e9f",
+        "id": "01b06e887f3d2a66",
         "type": "tabs",
         "children": [
           {
-            "id": "08be29d2c053bc9d",
+            "id": "ccaf071d19b4e0e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/test.md",
+                "file": "docs/dotnet/Testing/Integration/Respawn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/test.md",
+                "file": "docs/dotnet/Testing/Integration/Respawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/test.md",
+                "file": "docs/dotnet/Testing/Integration/Respawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/test.md"
+                "file": "docs/dotnet/Testing/Integration/Respawn.md"
               }
             }
           }
@@ -146,27 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08be29d2c053bc9d",
+  "active": "ccaf071d19b4e0e3",
   "lastOpenFiles": [
-    "docs/Introduction.md",
-    "docs/index.md",
+    "docs/dotnet/Testing/Snapshot/SpecFlow.md",
+    "docs/dotnet/Testing/Integration/Respawn.md",
+    "docs/dotnet/Testing/Integration",
+    "docs/dotnet/Testing/Snapshot/Verify.md",
+    "docs/dotnet/Testing/Performance/Apache Bench.md",
+    "docs/dotnet/Testing/Snapshot",
+    "docs/dotnet/Testing/Performance/nbench.md",
+    "docs/dotnet/Testing/Performance/k6.md",
+    "docs/dotnet/Message bus/EasyNetQ.md",
+    "docs/dotnet/Testing/Performance",
+    "docs/dotnet/Testing",
+    "docs/dotnet/Message bus/CAP.md",
+    "docs/cloud/Message broker/RabbitMQ.md",
+    "docs/dotnet/Message bus",
+    "docs/Message broker/Untitled.md",
+    "docs/cloud/Message broker/Apache Kafka.md",
+    "docs/cloud/Message broker/ActiveMQ.md",
+    "docs/cloud/Message broker/Azure Service Bus.md",
+    "docs/front end/general/Javascript.md",
+    "docs/front end/Untitled",
+    "docs/front end/general/typescript.md",
+    "docs/front end/general",
+    "docs/front end/general/resources.md",
+    "docs/oop/guidelines/oop guidelines.md",
+    "docs/oop/guidelines/SOLID.md",
+    "docs/oop/patterns/oop design patterns.md",
+    "docs/oop/oop principles.md",
+    "docs/dev ops/container/orchestration/Kubernetes.md",
+    "docs/oop/guidelines/Code smell.md",
+    "docs/oop/design interview questions/design a bank.md",
+    "docs/oop/design interview questions/design a movie recommendation system.md",
+    "docs/oop/design interview questions/design chess.md",
+    "docs/oop/design interview questions/design a parking lot.md",
+    "docs/oop/guidelines",
+    "docs/attachments/Pasted image 20231124160034.png",
+    "docs/attachments/Pasted image 20231124154600.png",
+    "docs/attachments/Pasted image 20231124154540.png",
+    "docs/attachments/Pasted image 20231124154517.png",
+    "docs/cloud/essentials",
+    "docs/network/osi model",
     "docs/attachments/Pasted image 20231117200042.png",
-    "docs/test.md",
-    "docs/New Text Document.txt",
-    "docs/New folder",
     "docs/attachments/Pasted image 20231123170739.png",
     "docs/attachments/Pasted image 20231123170917.png",
     "docs/attachments/Pasted image 20231123170602.png",
     "docs/attachments/Pasted image 20231123170558.png",
-    "docs/attachments/Pasted image 20231123170457.png",
-    "docs/attachments/Pasted image 20231123170251.png",
-    "docs/attachments/Pasted image 20231123170133.png",
-    "docs/attachments/Pasted image 20231123165008.png",
-    "docs/attachments/Pasted image 20231116194258.png",
-    "docs/attachments",
-    "test.md",
-    "attachments",
-    "docs",
-    "mkdocs.yml"
+    "docs/attachments/Pasted image 20231123170457.png"
   ]
 }

@@ -1,0 +1,1 @@
+**structured manner of responding to a behavioral-based interview question by discussing the specific situation, task, action, and result of the situation you are describing**.
