@@ -1,0 +1,4 @@
+- [WebApplicationFactory](https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-8.0)
+- recommended up to .NET 5 and .NET6 [TestServer](https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-8.0)
+- [Respawn](https://github.com/jbogard/Respawn)
+- [Test Containers](https://github.com/testcontainers/testcontainers-dotnet)

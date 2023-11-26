@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dotnet/Testing/Integration/Respawn.md",
+                "file": "docs/dotnet/Testing/Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/dotnet/Testing/Integration/Respawn.md",
+                "file": "docs/dotnet/Testing/Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/dotnet/Testing/Integration/Respawn.md",
+                "file": "docs/dotnet/Testing/Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/dotnet/Testing/Integration/Respawn.md"
+                "file": "docs/dotnet/Testing/Integration.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "ccaf071d19b4e0e3",
   "lastOpenFiles": [
-    "docs/dotnet/Testing/Snapshot/SpecFlow.md",
+    "docs/dotnet/Testing/Performance.md",
+    "docs/dotnet/Testing/Snapshot.md",
+    "docs/dotnet/Testing/Integration.md",
+    "docs/dotnet/Testing/E2E.md",
+    "docs/dotnet/Testing/Behavior.md",
+    "docs/dotnet/Testing/Unit.md",
+    "aa.md",
     "docs/dotnet/Testing/Integration/Respawn.md",
+    "docs/dotnet/Testing/Snapshot/SpecFlow.md",
     "docs/dotnet/Testing/Integration",
     "docs/dotnet/Testing/Snapshot/Verify.md",
     "docs/dotnet/Testing/Performance/Apache Bench.md",
@@ -174,13 +181,6 @@
     "docs/oop/guidelines/oop guidelines.md",
     "docs/oop/guidelines/SOLID.md",
     "docs/oop/patterns/oop design patterns.md",
-    "docs/oop/oop principles.md",
-    "docs/dev ops/container/orchestration/Kubernetes.md",
-    "docs/oop/guidelines/Code smell.md",
-    "docs/oop/design interview questions/design a bank.md",
-    "docs/oop/design interview questions/design a movie recommendation system.md",
-    "docs/oop/design interview questions/design chess.md",
-    "docs/oop/design interview questions/design a parking lot.md",
     "docs/oop/guidelines",
     "docs/attachments/Pasted image 20231124160034.png",
     "docs/attachments/Pasted image 20231124154600.png",

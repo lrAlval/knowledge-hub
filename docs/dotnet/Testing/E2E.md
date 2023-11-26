@@ -1,0 +1,3 @@
+- [Playwright](https://github.com/microsoft/playwright-dotnet)
+- [Selenium](https://github.com/SeleniumHQ/selenium) port by microsoft.
+- Headless Chrome - [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp)
