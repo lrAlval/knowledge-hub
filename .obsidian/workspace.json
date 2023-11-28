@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dotnet/Testing/Integration.md",
+                "file": "docs/security/OWASP API/Top 10 Vulnerabilities 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 439.5
   },
   "right": {
     "id": "c76ed5567ed9c21a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/dotnet/Testing/Integration.md",
+                "file": "docs/security/OWASP API/Top 10 Vulnerabilities 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/dotnet/Testing/Integration.md",
+                "file": "docs/security/OWASP API/Top 10 Vulnerabilities 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/dotnet/Testing/Integration.md"
+                "file": "docs/security/OWASP API/Top 10 Vulnerabilities 2023.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,51 +149,51 @@
   },
   "active": "ccaf071d19b4e0e3",
   "lastOpenFiles": [
+    "docs/security/OWASP API/API 04-2023 - Unlimited Resource Consumption.md",
+    "docs/security/OWASP API/API 03-2023 - Broken Object Property Level Authorization.md",
+    "docs/security/OWASP API/API 01-2023 - Broken object level authorization.md",
+    "docs/security/OWASP API/API 05-2023 - Broken function level authorization.md",
+    "docs/security/OWASP API/API 06-2023 - Unrestricted Access to Sensitive Business Flows.md",
+    "docs/security/OWASP API/API 02-2023 - Broken Authentication.md",
+    "docs/dotnet/ASP.NET Core.md",
+    "docs/dotnet/ASP.NET.md",
+    "docs/dotnet/Testing/Integration.md",
+    "docs/cloud/essentials/Encryption 101.md",
+    "docs/security/OWASP API/API 10-2023 - Unsafe Consumption of APIs.md",
+    "docs/security/OWASP API/API 09-2023 - Improper inventory management.md",
+    "docs/security/OWASP API/API 08-2023 - Security misconfiguration.md",
+    "docs/security/OWASP API/API 07-2023 - Server Side Request Forgery.md",
+    "docs/security/Auth flows",
+    "docs/security/OWASP API/Top 10 Vulnerabilities 2023.md",
+    "docs/security/OWASP API",
+    "docs/attachments/Pasted image 20231126172839.png",
+    "docs/attachments/Pasted image 20231126170712.png",
+    "docs/attachments/Pasted image 20231126170624.png",
+    "docs/dotnet/ASP.NET Core/Pipeline.md",
+    "docs/dotnet/Memory APIs/Span.md",
+    "docs/dotnet/Memory APIs/Memory.md",
+    "docs/dotnet/Message bus/CAP.md",
+    "docs/dotnet/Message bus/EasyNetQ.md",
+    "docs/dotnet/Runtime.md",
+    "docs/dotnet/Glossary.md",
+    "docs/dotnet/Collections.md",
+    "docs/dotnet/CPU.md",
     "docs/dotnet/Testing/Performance.md",
     "docs/dotnet/Testing/Snapshot.md",
-    "docs/dotnet/Testing/Integration.md",
-    "docs/dotnet/Testing/E2E.md",
-    "docs/dotnet/Testing/Behavior.md",
-    "docs/dotnet/Testing/Unit.md",
-    "aa.md",
-    "docs/dotnet/Testing/Integration/Respawn.md",
-    "docs/dotnet/Testing/Snapshot/SpecFlow.md",
     "docs/dotnet/Testing/Integration",
-    "docs/dotnet/Testing/Snapshot/Verify.md",
-    "docs/dotnet/Testing/Performance/Apache Bench.md",
     "docs/dotnet/Testing/Snapshot",
-    "docs/dotnet/Testing/Performance/nbench.md",
-    "docs/dotnet/Testing/Performance/k6.md",
-    "docs/dotnet/Message bus/EasyNetQ.md",
     "docs/dotnet/Testing/Performance",
     "docs/dotnet/Testing",
-    "docs/dotnet/Message bus/CAP.md",
-    "docs/cloud/Message broker/RabbitMQ.md",
     "docs/dotnet/Message bus",
-    "docs/Message broker/Untitled.md",
-    "docs/cloud/Message broker/Apache Kafka.md",
-    "docs/cloud/Message broker/ActiveMQ.md",
-    "docs/cloud/Message broker/Azure Service Bus.md",
-    "docs/front end/general/Javascript.md",
     "docs/front end/Untitled",
-    "docs/front end/general/typescript.md",
     "docs/front end/general",
-    "docs/front end/general/resources.md",
-    "docs/oop/guidelines/oop guidelines.md",
-    "docs/oop/guidelines/SOLID.md",
-    "docs/oop/patterns/oop design patterns.md",
     "docs/oop/guidelines",
     "docs/attachments/Pasted image 20231124160034.png",
     "docs/attachments/Pasted image 20231124154600.png",
     "docs/attachments/Pasted image 20231124154540.png",
     "docs/attachments/Pasted image 20231124154517.png",
-    "docs/cloud/essentials",
-    "docs/network/osi model",
     "docs/attachments/Pasted image 20231117200042.png",
     "docs/attachments/Pasted image 20231123170739.png",
-    "docs/attachments/Pasted image 20231123170917.png",
-    "docs/attachments/Pasted image 20231123170602.png",
-    "docs/attachments/Pasted image 20231123170558.png",
-    "docs/attachments/Pasted image 20231123170457.png"
+    "docs/attachments/Pasted image 20231123170917.png"
   ]
 }
